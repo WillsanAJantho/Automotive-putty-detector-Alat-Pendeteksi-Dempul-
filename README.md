@@ -8,5 +8,5 @@ This Digital Signal Processing project aims to detect putty in car body panels, 
 3. cars with putty
 4. cars without putty
 
-Working Mechanism & features
+# Working Mechanism and Features
 This Digital Signal Processing project aims to detect putty in car body panels, providing guidance for individuals purchasing second-hand cars.
